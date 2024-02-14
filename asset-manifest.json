@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tomohto/2024internships.github.io/static/css/main.697b3526.css",
+    "main.js": "/tomohto/2024internships.github.io/static/js/main.cf72fa4c.js",
+    "static/js/592.ae073989.chunk.js": "/tomohto/2024internships.github.io/static/js/592.ae073989.chunk.js",
+    "index.html": "/tomohto/2024internships.github.io/index.html",
+    "main.697b3526.css.map": "/tomohto/2024internships.github.io/static/css/main.697b3526.css.map",
+    "main.cf72fa4c.js.map": "/tomohto/2024internships.github.io/static/js/main.cf72fa4c.js.map",
+    "592.ae073989.chunk.js.map": "/tomohto/2024internships.github.io/static/js/592.ae073989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697b3526.css",
+    "static/js/main.cf72fa4c.js"
+  ]
+}
